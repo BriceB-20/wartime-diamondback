@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Change this to write something about this exercise.
+# About
+This is the "About" page.
