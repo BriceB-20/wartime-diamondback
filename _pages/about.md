@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-# About
-This is the "About" page.
+This is the **About** page.
